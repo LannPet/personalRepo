@@ -3,3 +3,7 @@ function sum(x, y) {
 }
 
 
+function div(x, y) {
+    console.log(x / y);
+}
+
